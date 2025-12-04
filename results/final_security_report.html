@@ -1,0 +1,91 @@
+
+    <html>
+    <head>
+        <title>Web Security Report</title>
+        <style>
+            body { font-family: Arial; margin: 40px; }
+            h1 { color: #2c3e50; }
+            table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+            th, td { padding: 10px; border: 1px solid #555; }
+            th { background: #444; color: #fff; }
+        </style>
+    </head>
+    <body>
+
+        <h1>Web Application Security Testing Report</h1>
+        <p><b>Total Vulnerabilities Found:</b> 7</p>
+
+        <h2>Severity Chart</h2>
+        <img src="vuln_chart.png" width="400">
+
+        <h2>Detailed Findings</h2>
+        <table>
+            <tr>
+                <th>Vulnerability Type</th>
+                <th>Endpoint</th>
+                <th>Severity</th>
+                <th>Evidence</th>
+                <th>Suggested Mitigation</th>
+            </tr>
+            
+            <tr>
+                <td>XSS (Stored)</td>
+                <td>http://localhost/vulnerabilities/xss_s/</td>
+                <td>High</td>
+                <td>Stored payload visible</td>
+                <td>Store clean input only, use output encoding and server-side filtering.</td>
+            </tr>
+            
+            <tr>
+                <td>XSS (Reflected)</td>
+                <td>http://localhost/vulnerabilities/xss_r/?name=<script>alert(1)</script>&Submit=Submit</td>
+                <td>High</td>
+                <td>Payload reflected in response</td>
+                <td>Sanitize user input, implement HTML encoding and enable Content Security Policy (CSP).</td>
+            </tr>
+            
+            <tr>
+                <td>XSS (DOM)</td>
+                <td>http://localhost/vulnerabilities/xss_d/</td>
+                <td>Medium</td>
+                <td>Dangerous DOM sink detected</td>
+                <td>Avoid writing raw user input to DOM, use safe JavaScript methods.</td>
+            </tr>
+            
+            <tr>
+                <td>auth</td>
+                <td>/login.php</td>
+                <td>High</td>
+                <td>Weak/default credentials allowed</td>
+                <td>Enforce strong password policy, lockout mechanism and 2FA.</td>
+            </tr>
+            
+            <tr>
+                <td>IDOR-Horizontal</td>
+                <td>http://localhost/vulnerabilities/xss_s/?id=1</td>
+                <td>High</td>
+                <td>User data accessed without permission</td>
+                <td>Implement access control checks before serving user-specific data.</td>
+            </tr>
+            
+            <tr>
+                <td>IDOR-Horizontal</td>
+                <td>http://localhost/vulnerabilities/xss_s/?id=2</td>
+                <td>High</td>
+                <td>User data accessed without permission</td>
+                <td>Implement access control checks before serving user-specific data.</td>
+            </tr>
+            
+            <tr>
+                <td>IDOR-Horizontal</td>
+                <td>http://localhost/vulnerabilities/xss_s/?id=3</td>
+                <td>High</td>
+                <td>User data accessed without permission</td>
+                <td>Implement access control checks before serving user-specific data.</td>
+            </tr>
+            
+        </table>
+
+    </body>
+    </html>
+    

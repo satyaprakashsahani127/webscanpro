@@ -1,0 +1,4 @@
+module,endpoint,parameter,payload,evidence,severity
+IDOR-Horizontal,http://localhost/vulnerabilities/xss_s/?id=1,id,1,User data accessed without permission,High
+IDOR-Horizontal,http://localhost/vulnerabilities/xss_s/?id=2,id,2,User data accessed without permission,High
+IDOR-Horizontal,http://localhost/vulnerabilities/xss_s/?id=3,id,3,User data accessed without permission,High

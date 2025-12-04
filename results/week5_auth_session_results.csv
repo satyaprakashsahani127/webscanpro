@@ -1,0 +1,2 @@
+module,endpoint,parameter,payload,evidence,severity
+auth,/login.php,username,admin:password,Weak/default credentials allowed,High

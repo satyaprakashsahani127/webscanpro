@@ -1,0 +1,1152 @@
+[
+  {
+    "url": "http://localhost/",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.virtualbox.org/",
+      "https://www.vmware.com/",
+      "https://www.apachefriends.org/en/xampp.html",
+      "http://www.itsecgames.com/",
+      "http://sourceforge.net/projects/mutillidae/files/mutillidae-project/",
+      "http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10",
+      "https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project"
+    ]
+  },
+  {
+    "url": "http://localhost/instructions.php",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/instructions.php?doc=readme",
+      "http://localhost/instructions.php?doc=PDF",
+      "http://localhost/instructions.php?doc=changelog",
+      "http://localhost/instructions.php?doc=copying",
+      "http://localhost/instructions.php?doc=PHPIDS-license",
+      "https://www.virtualbox.org/",
+      "https://www.vmware.com/",
+      "https://www.apachefriends.org/en/xampp.html",
+      "http://www.gnu.org/licenses/.",
+      "https://hub.docker.com/r/vulnerables/web",
+      "https://github.com/ethicalhack3r/DVWA/archive/v1.9.zip",
+      "http://www.dvwa.co.uk/DVWA",
+      "https://github.com/ethicalhack3r/DVWA/archive/master.zip",
+      "https://github.com/ethicalhack3r/DVWA",
+      "https://support.microsoft.com/en",
+      "https://www.youtube.com/watch?v=5BG6iq",
+      "https://www.youtube.com/watch?v=cak2lQvBRAo",
+      "https://www.apachefriends.org/en/xampp.html",
+      "https://www.apachefriends.org/en/xampp.html",
+      "http://127.0.0.1/dvwa/setup.php",
+      "https://secure.php.net/manual/en/filesystem.configuration.php",
+      "https://secure.php.net/manual/en/filesystem.configuration.php",
+      "https://secure.php.net/manual/en/features.safe",
+      "https://secure.php.net/manual/en/security.magicquotes.php",
+      "https://secure.php.net/manual/en/errorfunc.configuration.php",
+      "https://www.google.com/recaptcha/admin/create",
+      "http://127.0.0.1/dvwa/login.php",
+      "https://github.com/ethicalhack3r/DVWA/issues",
+      "http://www.dvwa.co.uk/",
+      "https://github.com/ethicalhack3r/DVWA"
+    ]
+  },
+  {
+    "url": "http://localhost/setup.php",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "create_db",
+          "user_token"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/brute/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "GET",
+        "inputs": [
+          "username",
+          "password",
+          "Login"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.owasp.org/index.php/Testing_for_Brute_Force_(OWASP-AT-004)",
+      "http://www.symantec.com/connect/articles/password-crackers-ensuring-security-your-password",
+      "http://www.sillychicken.co.nz/Security/how-to-brute-force-http-forms-in-windows.html"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/exec/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "ip",
+          "Submit"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://www.scribd.com/doc/2530476/Php-Endangers-Remote-Code-Execution",
+      "http://www.ss64.com/bash/",
+      "http://www.ss64.com/nt/",
+      "https://www.owasp.org/index.php/Command_Injection"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/csrf/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "GET",
+        "inputs": [
+          "password_new",
+          "password_conf",
+          "Change"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.owasp.org/index.php/Cross-Site_Request_Forgery",
+      "http://www.cgisecurity.com/csrf-faq.html",
+      "https://en.wikipedia.org/wiki/Cross-site_request_forgery "
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/fi/?page=include.php",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/vulnerabilities/fi/?page=file1.php",
+      "http://localhost/vulnerabilities/fi/?page=file2.php",
+      "http://localhost/vulnerabilities/fi/?page=file3.php",
+      "https://en.wikipedia.org/wiki/Remote_File_Inclusion",
+      "https://www.owasp.org/index.php/Top_10_2007-A3"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/upload/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "MAX_FILE_SIZE",
+          "uploaded",
+          "Upload"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.owasp.org/index.php/Unrestricted_File_Upload",
+      "https://blogs.securiteam.com/index.php/archives/1268",
+      "https://www.acunetix.com/websitesecurity/upload-forms-threat/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/captcha/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "step",
+          "password_new",
+          "password_conf",
+          "Change"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.google.com/recaptcha/admin/create",
+      "https://en.wikipedia.org/wiki/CAPTCHA",
+      "https://www.google.com/recaptcha/",
+      "https://www.owasp.org/index.php/Testing_for_Captcha_(OWASP-AT-012)"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/sqli/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "GET",
+        "inputs": [
+          "id",
+          "Submit"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://www.securiteam.com/securityreviews/5DP0N1P76E.html",
+      "https://en.wikipedia.org/wiki/SQL_injection",
+      "http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/",
+      "http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet",
+      "https://www.owasp.org/index.php/SQL_Injection",
+      "http://bobby-tables.com/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/sqli_blind/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "GET",
+        "inputs": [
+          "id",
+          "Submit"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://www.securiteam.com/securityreviews/5DP0N1P76E.html",
+      "https://en.wikipedia.org/wiki/SQL_injection",
+      "http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/",
+      "http://pentestmonkey.net/cheat-sheet/sql-injection/mysql-sql-injection-cheat-sheet",
+      "https://www.owasp.org/index.php/Blind_SQL_Injection",
+      "http://bobby-tables.com/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/weak_id/",
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "inputs": []
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/xss_d/",
+    "forms": [
+      {
+        "action": "",
+        "method": "GET",
+        "inputs": [
+          "default"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)",
+      "https://www.owasp.org/index.php/Testing_for_DOM-based_Cross_site_scripting_(OTG-CLIENT-001)",
+      "https://www.acunetix.com/blog/articles/dom-xss-explained/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/xss_r/",
+    "forms": [
+      {
+        "action": "#",
+        "method": "GET",
+        "inputs": [
+          "name"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)",
+      "https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet",
+      "https://en.wikipedia.org/wiki/Cross-site_scripting",
+      "http://www.cgisecurity.com/xss-faq.html",
+      "http://www.scriptalert1.com/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/xss_s/",
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "inputs": [
+          "txtName",
+          "mtxMessage",
+          "btnSign",
+          "btnClear"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)",
+      "https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet",
+      "https://en.wikipedia.org/wiki/Cross-site_scripting",
+      "http://www.cgisecurity.com/xss-faq.html",
+      "http://www.scriptalert1.com/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/csp/",
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "inputs": [
+          "include"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://content-security-policy.com/",
+      "https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP",
+      "https://blog.mozilla.org/security/2014/10/04/csp-for-the-web-we-have/",
+      "https://twitter.com/digininja"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/javascript/",
+    "forms": [
+      {
+        "action": "",
+        "method": "POST",
+        "inputs": [
+          "token",
+          "phrase",
+          "send"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://www.w3schools.com/js/",
+      "https://www.youtube.com/watch?v=cs7EQdWO5o0&index=17&list=WL",
+      "https://ponyfoo.com/articles/es6-proxies-in-depth",
+      "https://twitter.com/digininja"
+    ]
+  },
+  {
+    "url": "http://localhost/security.php",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "security",
+          "seclev_submit",
+          "user_token"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://github.com/PHPIDS/PHPIDS",
+      "http://localhost/security.php?phpids=on",
+      "http://localhost/security.php?test=%22><script>eval(window.name)</script>",
+      "http://localhost/ids_log.php"
+    ]
+  },
+  {
+    "url": "http://localhost/phpinfo.php",
+    "forms": [],
+    "links": [
+      "http://www.php.net/",
+      "http://www.zend.com/"
+    ]
+  },
+  {
+    "url": "http://localhost/about.php",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/docs/DVWA_v1.3.pdf",
+      "http://www.dvwa.co.uk/",
+      "https://github.com/RandomStorm/DVWA",
+      "https://github.com/RandomStorm/DVWA/issues",
+      "https://github.com/RandomStorm/DVWA/commits/master",
+      "https://github.com/RandomStorm/DVWA/wiki",
+      "http://brooksgarrett.com/",
+      "https://blog.g0tmi1k.com/",
+      "https://www.creativenucleus.com/",
+      "http://www.designnewcastle.co.uk/",
+      "http://www.linux-ninja.com/",
+      "https://www.randomstorm.com/",
+      "https://www.dewhurstsecurity.com/",
+      "http://www.paulosyibelo.com/",
+      "http://tedi.heriyanto.net/",
+      "https://www.tmacuk.co.uk/",
+      "http://github.com/PHPIDS/PHPIDS",
+      "http://localhost/instructions.php?doc=PHPIDS-license"
+    ]
+  },
+  {
+    "url": "http://localhost/instructions.php?doc=readme",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/instructions.php?doc=readme",
+      "http://localhost/instructions.php?doc=PDF",
+      "http://localhost/instructions.php?doc=changelog",
+      "http://localhost/instructions.php?doc=copying",
+      "http://localhost/instructions.php?doc=PHPIDS-license",
+      "https://www.virtualbox.org/",
+      "https://www.vmware.com/",
+      "https://www.apachefriends.org/en/xampp.html",
+      "http://www.gnu.org/licenses/.",
+      "https://hub.docker.com/r/vulnerables/web",
+      "https://github.com/ethicalhack3r/DVWA/archive/v1.9.zip",
+      "http://www.dvwa.co.uk/DVWA",
+      "https://github.com/ethicalhack3r/DVWA/archive/master.zip",
+      "https://github.com/ethicalhack3r/DVWA",
+      "https://support.microsoft.com/en",
+      "https://www.youtube.com/watch?v=5BG6iq",
+      "https://www.youtube.com/watch?v=cak2lQvBRAo",
+      "https://www.apachefriends.org/en/xampp.html",
+      "https://www.apachefriends.org/en/xampp.html",
+      "http://127.0.0.1/dvwa/setup.php",
+      "https://secure.php.net/manual/en/filesystem.configuration.php",
+      "https://secure.php.net/manual/en/filesystem.configuration.php",
+      "https://secure.php.net/manual/en/features.safe",
+      "https://secure.php.net/manual/en/security.magicquotes.php",
+      "https://secure.php.net/manual/en/errorfunc.configuration.php",
+      "https://www.google.com/recaptcha/admin/create",
+      "http://127.0.0.1/dvwa/login.php",
+      "https://github.com/ethicalhack3r/DVWA/issues",
+      "http://www.dvwa.co.uk/",
+      "https://github.com/ethicalhack3r/DVWA"
+    ]
+  },
+  {
+    "url": "http://localhost/instructions.php?doc=PDF",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/instructions.php?doc=readme",
+      "http://localhost/instructions.php?doc=PDF",
+      "http://localhost/instructions.php?doc=changelog",
+      "http://localhost/instructions.php?doc=copying",
+      "http://localhost/instructions.php?doc=PHPIDS-license",
+      "http://localhost/docs/DVWA_v1.3.pdf"
+    ]
+  },
+  {
+    "url": "http://localhost/instructions.php?doc=changelog",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/instructions.php?doc=readme",
+      "http://localhost/instructions.php?doc=PDF",
+      "http://localhost/instructions.php?doc=changelog",
+      "http://localhost/instructions.php?doc=copying",
+      "http://localhost/instructions.php?doc=PHPIDS-license",
+      "http://hiderefer.com",
+      "http://www.dvwa.co.uk"
+    ]
+  },
+  {
+    "url": "http://localhost/instructions.php?doc=copying",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/instructions.php?doc=readme",
+      "http://localhost/instructions.php?doc=PDF",
+      "http://localhost/instructions.php?doc=changelog",
+      "http://localhost/instructions.php?doc=copying",
+      "http://localhost/instructions.php?doc=PHPIDS-license",
+      "http://fsf.org/"
+    ]
+  },
+  {
+    "url": "http://localhost/instructions.php?doc=PHPIDS-license",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/instructions.php?doc=readme",
+      "http://localhost/instructions.php?doc=PDF",
+      "http://localhost/instructions.php?doc=changelog",
+      "http://localhost/instructions.php?doc=copying",
+      "http://localhost/instructions.php?doc=PHPIDS-license",
+      "http://fsf.org/"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/fi/?page=file1.php",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "https://en.wikipedia.org/wiki/Remote_File_Inclusion",
+      "https://www.owasp.org/index.php/Top_10_2007-A3"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/fi/?page=file2.php",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "https://en.wikipedia.org/wiki/Remote_File_Inclusion",
+      "https://www.owasp.org/index.php/Top_10_2007-A3"
+    ]
+  },
+  {
+    "url": "http://localhost/vulnerabilities/fi/?page=file3.php",
+    "forms": [],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "https://en.wikipedia.org/wiki/Remote_File_Inclusion",
+      "https://www.owasp.org/index.php/Top_10_2007-A3"
+    ]
+  },
+  {
+    "url": "http://localhost/security.php?phpids=on",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "security",
+          "seclev_submit",
+          "user_token"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://github.com/PHPIDS/PHPIDS",
+      "http://localhost/security.php?phpids=off",
+      "http://localhost/security.php?test=%22><script>eval(window.name)</script>",
+      "http://localhost/ids_log.php"
+    ]
+  },
+  {
+    "url": "http://localhost/security.php?test=%22><script>eval(window.name)</script>",
+    "forms": [],
+    "links": []
+  },
+  {
+    "url": "http://localhost/ids_log.php",
+    "forms": [
+      {
+        "action": "#",
+        "method": "GET",
+        "inputs": [
+          "clear_log"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php"
+    ]
+  },
+  {
+    "url": "http://localhost/docs/DVWA_v1.3.pdf",
+    "forms": [],
+    "links": []
+  },
+  {
+    "url": "http://localhost/security.php?phpids=off",
+    "forms": [
+      {
+        "action": "#",
+        "method": "POST",
+        "inputs": [
+          "security",
+          "seclev_submit",
+          "user_token"
+        ]
+      }
+    ],
+    "links": [
+      "http://localhost/",
+      "http://localhost/instructions.php",
+      "http://localhost/setup.php",
+      "http://localhost/vulnerabilities/brute/",
+      "http://localhost/vulnerabilities/exec/",
+      "http://localhost/vulnerabilities/csrf/",
+      "http://localhost/vulnerabilities/fi/?page=include.php",
+      "http://localhost/vulnerabilities/upload/",
+      "http://localhost/vulnerabilities/captcha/",
+      "http://localhost/vulnerabilities/sqli/",
+      "http://localhost/vulnerabilities/sqli_blind/",
+      "http://localhost/vulnerabilities/weak_id/",
+      "http://localhost/vulnerabilities/xss_d/",
+      "http://localhost/vulnerabilities/xss_r/",
+      "http://localhost/vulnerabilities/xss_s/",
+      "http://localhost/vulnerabilities/csp/",
+      "http://localhost/vulnerabilities/javascript/",
+      "http://localhost/security.php",
+      "http://localhost/phpinfo.php",
+      "http://localhost/about.php",
+      "https://github.com/PHPIDS/PHPIDS",
+      "http://localhost/security.php?phpids=on",
+      "http://localhost/security.php?test=%22><script>eval(window.name)</script>",
+      "http://localhost/ids_log.php"
+    ]
+  }
+]

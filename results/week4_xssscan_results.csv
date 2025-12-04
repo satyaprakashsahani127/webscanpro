@@ -1,0 +1,4 @@
+module,endpoint,parameter,payload,evidence,severity
+XSS (Stored),http://localhost/vulnerabilities/xss_s/,txtName/mtxMessage,<script>alert(1)</script>,Stored payload visible,High
+XSS (Reflected),http://localhost/vulnerabilities/xss_r/?name=<script>alert(1)</script>&Submit=Submit,name,<script>alert(1)</script>,Payload reflected in response,High
+XSS (DOM),http://localhost/vulnerabilities/xss_d/,N/A,N/A,Dangerous DOM sink detected,Medium
